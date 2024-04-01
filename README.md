@@ -1,6 +1,4 @@
 My Personal Website, I Learn To Create a Personal Web
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,6 +6,7 @@ My Personal Website, I Learn To Create a Personal Web
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MOHAMMAD FAUZAN Personal Website</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
