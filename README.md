@@ -55,8 +55,8 @@ My Personal Website, I Learn To Create a Personal Web
                     <td>
                         <ul>
                             <li>Freelancer di Internet</li>
-                            <li>Leaeder Local Linux Community</li>
-                            <li>Leaeder Local Linux Community</li>
+                            <li>Github</li>
+                            <li>internet</li>
                         </ul>
                     </td>
                 </tr>
